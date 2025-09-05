@@ -51,9 +51,6 @@
         <p></p> 
         <a href="https://www.kali.org/" target="_blank"> <img alt="Kali Linux" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg"/> </a>
         <a href="https://nmap.org/" target="_blank"> <img alt="Nmap" height="42px" src="https://nmap.org/images/nmap-logo-256x256.png"/> </a>
-        <a href="https://portswigger.net/burp" target="_blank" rel="noopener noreferrer"> <img alt="Burp Suite" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burpsuite/burpsuite-original.svg" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/burpsuite.svg';" /> </a>
-        <a href="https://www.wireshark.org/" target="_blank" rel="noopener noreferrer"> <img alt="Wireshark" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wireshark.svg';" /> </a>
-        <a href="https://www.metasploit.com/" target="_blank" rel="noopener noreferrer"> <img alt="Metasploit" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" onerror="this.onerror=null;this.src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/metasploit.svg';" /> </a>
         <a href="https://www.nginx.com/" target="_blank"> <img alt="Nginx" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/> </a>
         <a href="https://aws.amazon.com/" target="_blank"> <img alt="AWS" height="42px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"/> </a>
         <a href="https://github.com/features/actions" target="_blank"> <img alt="GitHub Actions" height="42px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4"/> </a>
