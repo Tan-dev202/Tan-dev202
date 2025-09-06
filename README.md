@@ -56,7 +56,6 @@
         <a href="https://github.com/features/actions" target="_blank"> <img alt="GitHub Actions" height="42px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4"/> </a>
         <a href="https://www.postman.com/" target="_blank"> <img alt="Postman" height="42px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/> </a>
         <a href="https://code.visualstudio.com/" target="_blank"> <img alt="VS Code" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank"> <img alt="Bash" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> </a>
         <a href="https://www.mysql.com/" target="_blank"> <img alt="MySQL" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
         <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> <img alt="HTML" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" /></a>
         <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img alt="CSS" height="42px"  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" /></a>
